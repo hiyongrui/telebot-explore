@@ -1,0 +1,22 @@
+{
+  "name": "telebot-explore",
+  "version": "1.0.0",
+  "description": "exploring telegram bot api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiyongrui/telebot-explore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiyongrui/telebot-explore/issues"
+  },
+  "homepage": "https://github.com/hiyongrui/telebot-explore#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.63.0"
+  }
+}
